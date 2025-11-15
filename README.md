@@ -4,7 +4,7 @@
 
 Cụ thể công việc như sau: 
 
-Nguyễn Thị Phương Thảo 
+**Nguyễn Thị Phương Thảo **
 
 ● Thu thập dữ liệu, Tiền xử lý dữ liệu 
 
@@ -16,7 +16,8 @@ Nguyễn Thị Phương Thảo
 
 ● Slide thuyết trình và tổng hợp nội dung báo cáo liên quan đến các bước trên. 
 
-Nguyễn Hà Phương Uyên 
+**Nguyễn Hà Phương Uyên **
+
 ● Dự đoán điểm đánh giá cho phim trong CF 
 
 ● Content-Based Filtering (CBF) dựa trên thể loại phim. 
